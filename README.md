@@ -1,5 +1,7 @@
 # EasyNet
 
+<img src="program.png" align="left" width="300" style="margin-right: 15px;" />
+
 A small, friendly GUI for [ZeroTier](https://zerotier.com). Create a network, hit connect, and see who's online - like Radmin VPN, but on top of ZeroTier. No account or paid plan needed.
 
 * One-click connect / disconnect
