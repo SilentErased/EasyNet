@@ -13,6 +13,8 @@ A small, friendly GUI for [ZeroTier](https://zerotier.com). Create a network, hi
 * English / Русский / Українська
 * Windows and Linux
 
+<br clear="all" />
+
 ## Download
 
 Grab a build from [Releases](https://www.google.com/search?q=../../releases):
